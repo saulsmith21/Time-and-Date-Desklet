@@ -1,0 +1,12 @@
+{
+    "description": "A fork desklet that displays the time and date",
+    "prevent-decorations": true,
+    "uuid": "TimeAndDate@nightflame",
+    "name": "Time and Date Desklet",
+    "timeFormat": "%I:%M %p",
+    "timeSize": "60pt",
+    "dateFormat": "%A, %e de %B %Y",
+    "dateSize": "20pt",
+    "author": "none",
+    "last-edited": 1654255122
+}

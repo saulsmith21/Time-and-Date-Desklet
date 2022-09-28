@@ -1,0 +1,18 @@
+.clock-container{
+	font-family: dejavu sans extralight;
+	font-weight:lighter;
+	color:rgb(255, 255, 255);
+	text-shadow: 1px 1px 2px #000;
+	padding: 4px 10px 4px 10px; 
+	background: none;
+}
+
+.time-container{
+}
+
+.date-container{
+}
+
+.clock-date-label{
+	color: brown;
+}
